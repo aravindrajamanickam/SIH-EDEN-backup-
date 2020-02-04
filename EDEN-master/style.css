@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
+h1
+{
+    font-size: 40px;
+}
+#title{
+	color: green;
+}
+#m
+{
+	color: black;
+}
+.fa-tools
+{
+	color: black;
+}
+.box1{
+	border: 2px solid green;
+	border-radius: 25px;
+	background-color: white;
+}
+
+.box1:hover
+{
+    background-color: palegreen;
+    border: 2px solid black;
+    transition: 0.7s ease;
+}
+.box2
+{
+	border: 2px solid green;
+	border-radius: 25px;
+    background-color: white;
+}
+.box2:hover
+{
+    background-color: palegreen;
+    border: 2px solid black;
+    transition: 0.7s ease;
+}
+#monitor
+{
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    border: none;
+}
+#monitor:hover
+{
+    color: white;
+    box-sizing: border-box;
+    background-color: black;
+    border: 2px solid black;
+    transition: 0.7s ease;
+}
+#control
+{
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    border: none;
+}
+#control:hover
+{
+    color: white;
+    box-sizing: border-box;
+    background-color: black;
+    border: 2px solid black;
+    transition: 0.7s ease;
+}
+#quotes
+{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Raleway', sans-serif;
+}
+.r1{
+	padding: 0.5%;
+	border: none;
+	border-radius: 30px;
+	text-align: center;
+}
+.r1:hover
+{
+    border: 1px solid black;
+    transition: 0.2s ease;
+}
+#dis{
+	text-align: center;
+	
+}
+#temp{
+    font-family: 'Bebas Neue', cursive;
+	background: white;
+	color: green;
+	border: none;
+	border-radius: 10px;
+}
+#light{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+	background: white;
+	color: green;
+	border: none;
+	border-radius: 25px;
+}
+#test1{
+    font-family: 'Bebas Neue', cursive;
+	background: white;
+	color: green;
+	border: none;
+	border-radius: 25px;
+}
+#test2{
+    font-family: 'Bebas Neue', cursive;
+	background: white;
+	color: green;
+	border: none;
+	border-radius: 25px;
+}
+#test3{
+    font-family: 'Bebas Neue', cursive;
+	background: white;
+	color: green;
+	border: none;
+	border-radius: 25px;
+}
+#line{
+	background: red;
+}
+#footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 150%;
+   text-align: center;
+}
+.dark{
+	background: black;
+	color: white;
+}
+#hr{
+	background: white;
+}
+.allview
+{
+    font-family: 'Raleway', sans-serif;
+    color: black;
+}
+.allview:hover
+{
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    transition: 0.7s ease;
+}
+#line
+{
+    background-color: green;
+    height: 1px;
+}
